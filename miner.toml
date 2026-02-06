@@ -1,0 +1,9 @@
+[node]
+address = "pool.snap-coin.net:3333" #Official Pool
+
+[miner]
+public = "YOURADDRESS"
+
+[threads]
+count = THREADS
+
